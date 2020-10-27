@@ -1,0 +1,36 @@
+.list-items {
+    width: 63%;
+    margin: auto;
+}
+.manager-list {
+    border: 1px solid #decbcb;
+    margin-bottom: 2rem;
+    padding: 0 2rem;
+}
+.modal-dialog {
+    max-width: 700px;
+}
+.manager-list p {
+    text-align: left;
+}
+.manager-list{
+    display: flex;
+    justify-content: space-between;
+}
+.manager-list button{
+    background-color: #007bff;
+    border: 1px solid #007bff;
+    margin-top: 2rem;
+    color:#fff;
+}
+.list-head {
+    display: flex;
+    justify-content: space-between;
+    margin-top: 2rem;
+}
+.list-head button{
+    background-color: #007bff;
+    border: 1px solid #007bff;
+    color: #fff;
+    margin-bottom: 5px;
+}
